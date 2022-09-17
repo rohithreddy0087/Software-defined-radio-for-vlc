@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def dir_vec(A,B):
   return B-A
 
